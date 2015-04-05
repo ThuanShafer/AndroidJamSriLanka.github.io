@@ -7,3 +7,8 @@
 ##Week Two
 1. Finish writing your project idea on README.md using markdown.
 2. Create an issue in your repo, asking to change the name of the repo. Issue message shoudl contain, a suitable name to be put as the repo name, and a small descrition about your project( max 500 words ). 
+
+
+##Week Three
+1. Push the code of your app to the Github
+2. 
