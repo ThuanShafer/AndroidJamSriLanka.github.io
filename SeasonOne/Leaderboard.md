@@ -4,14 +4,14 @@
 |--------------------------------|------------------|-----------|------------------|------------------------------|---------------------------------------------|--------------------|--------|--------|--------|
 | Demini Indrachapa              |                  | 16        | 1                | 4                            | 0                                           | 2                  | 3      | 3      | 3      |
 | Maneesha                       |                  | 16        | 1                | 4                            | 0                                           | 2                  | 3      | 3      | 3      |
-| Anusha Ihalapathirana          | ihalapathirana   | 16        | 1                | 4                            | 2                                           | 0                  | 3      | 3      | 3      |
+| Anusha Ihalapathirana          |    | 16        | 1                | 4                            | 2                                           | 0                  | 3      | 3      | 3      |
 | Thuan Shafer Preena            |                  | 15        | 1                | 4                            | 1                                           | 0                  | 3      | 3      | 3      |
 | Roshan Karunarathna            |                  | 14        | 1                | 4                            | 0                                           | 0                  | 3      | 3      | 3      |
 | Manushi Wijayapala             |                  | 14        | 1                | 4                            | 0                                           | 0                  | 3      | 3      | 3      |
 | Sharika Kitchilan              |                  | 14        | 1                | 4                            | 0                                           | 0                  | 3      | 3      | 3      |
 | SaJith Nandasena               |                  | 14        | 1                | 4                            | 0                                           | 0                  | 3      | 3      | 3      |
 | Nadeesha Thilakarathne         |                  | 14        | 1                | 4                            | 0                                           | 0                  | 3      | 3      | 3      |
-| Miyuruhansi Sarathchandra      | mhazi            | 14        | 1                | 4                            | 0                                           | 0                  | 3      | 3      | 3      |
+| Miyuruhansi Sarathchandra      |             | 14        | 1                | 4                            | 0                                           | 0                  | 3      | 3      | 3      |
 | Udayanga Senanayake            |                  | 14        | 1                | 4                            | 0                                           | 0                  | 3      | 3      | 3      |
 | Hasitha Prageeth               |                  | 14        | 1                | 4                            | 0                                           | 0                  | 3      | 3      | 3      |
 | Chamlini Dayathileke           |                  | 14        | 1                | 4                            | 0                                           | 0                  | 3      | 3      | 3      |
