@@ -23,8 +23,8 @@
 | Ramindu Senarath               |                  | 13        | 1                | 4                            | 2                                           | 0                  | 3      | 0      | 3      |
 | Tharindu Ramesh Ketipearachchi | Happy Holiday SL | 13        | 1                | 4                            | 0                                           | 2                  | 3      | 3      | 0      |
 | Kasun Kodagoda                 |                  | 13        | 1                | 4                            | 2                                           | 0                  | 3      | 3      | 0      |
-| Dulakshi Wijesinghe            | 2012cs150        | 11        | 1                | 4                            | 0                                           | 0                  | 3      | 0      | 3      |
-| Rukshani                       | Rukshani         | 11        | 1                | 4                            | 0                                           | 0                  | 0      | 3      | 3      |
+| Dulakshi Wijesinghe            |         | 11        | 1                | 4                            | 0                                           | 0                  | 3      | 0      | 3      |
+| Rukshani                       |          | 11        | 1                | 4                            | 0                                           | 0                  | 0      | 3      | 3      |
 | Sameera Wickramasekara         |                  | 11        | 1                | 4                            | 0                                           | 0                  | 3      | 0      | 3      |
 | Thiwanka                       |                  | 6         | 0                | 0                            | 0                                           | 0                  | 0      | 3      | 3      |
 | Parami                         |                  | 6         | 0                | 0                            | 0                                           | 0                  | 0      | 3      | 3      |
