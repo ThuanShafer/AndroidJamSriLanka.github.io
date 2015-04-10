@@ -3,7 +3,7 @@
 |                                | App name         | Total(18) | Pushed README.md | Github Idea ( On README.md ) | Data source/Data handling clearly specified | Pushing app's code | Jam #1 | Jam #2 | Jam #3 |
 |--------------------------------|------------------|-----------|------------------|------------------------------|---------------------------------------------|--------------------|--------|--------|--------|
 | Demini Indrachapa              |                  | 16        | 1                | 4                            | 0                                           | 2                  | 3      | 3      | 3      |
-| Maneesha                       |                  | 16        | 1                | 4                            | 0                                           | 2                  | 3      | 3      | 3      |
+| Maneesha                       | Rsvp Mobile | 16        | 1                | 4                            | 0                                           | 2                  | 3      | 3      | 3      |
 | Anusha Ihalapathirana          |    | 16        | 1                | 4                            | 2                                           | 0                  | 3      | 3      | 3      |
 | Thuan Shafer Preena            |                  | 15        | 1                | 4                            | 1                                           | 0                  | 3      | 3      | 3      |
 | Roshan Karunarathna            |                  | 14        | 1                | 4                            | 0                                           | 0                  | 3      | 3      | 3      |
