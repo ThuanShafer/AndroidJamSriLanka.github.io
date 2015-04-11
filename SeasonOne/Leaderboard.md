@@ -5,7 +5,7 @@
 | Demini Indrachapa              |                  | 16        | 1                | 4                            | 0                                           | 2                  | 3      | 3      | 3      |
 | Maneesha                       |  Rsvp Mobile  | 16        | 1                | 4                            | 0                                           | 2                  | 3      | 3      | 3      |
 | Anusha Ihalapathirana          |    | 16        | 1                | 4                            | 2                                           | 0                  | 3      | 3      | 3      |
-| Thuan Shafer Preena            |                  | 15        | 1                | 4                            | 1                                           | 0                  | 3      | 3      | 3      |
+| Thuan Shafer Preena            | EZE TopUp                 | 15        | 1                | 4                            | 1                                           | 0                  | 3      | 3      | 3      |
 | Roshan Karunarathna            |                  | 14        | 1                | 4                            | 0                                           | 0                  | 3      | 3      | 3      |
 | Manushi Wijayapala             |                  | 14        | 1                | 4                            | 0                                           | 0                  | 3      | 3      | 3      |
 | Sharika Kitchilan              |                  | 14        | 1                | 4                            | 0                                           | 0                  | 3      | 3      | 3      |
